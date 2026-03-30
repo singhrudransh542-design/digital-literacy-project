@@ -1,0 +1,11 @@
+CYBERCRIME CASE STUDY — PHISHING ATTACK
+
+One of the most common forms of cybercrime is phishing, where attackers trick individuals into revealing sensitive information such as passwords, bank details, or OTPs. This type of attack has become widespread in India due to the rapid growth of digital banking and online services.
+
+A common example involves bank customers receiving fake SMS messages impersonating trusted banks like SBI or HDFC. These messages contain links that redirect users to fraudulent websites designed to look identical to official ones. When users enter their login details, attackers gain access to their accounts, which can result in financial loss, identity theft, or misuse of personal data.
+
+Many users fall victim because they are unable to identify suspicious links or verify the authenticity of such messages. This highlights the importance of digital awareness and cautious online behavior.
+
+This case shows how cybercriminals exploit trust and urgency to manipulate individuals. Being digitally literate helps users recognize such threats and avoid falling into these traps.
+
+Victims of cybercrime in India can report incidents at https://www.cybercrime.gov.in or by calling the national helpline number 1930.
